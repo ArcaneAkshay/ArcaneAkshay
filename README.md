@@ -1,3 +1,3 @@
 ### Hi there 👋
-[Visitor Count](https://profile-counter.glitch.me/ArcaneAkshay/count.svg)
+<p align="center">![Visitor Count](https://profile-counter.glitch.me/ArcaneAkshay/count.svg) </p>
 - 🌱 I’m currently learning Javascript
