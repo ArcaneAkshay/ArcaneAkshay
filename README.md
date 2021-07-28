@@ -1,3 +1,3 @@
 ### Hi there, I'm Akshay 👋
-### Profile Views: ![Visitor Count](https://profile-counter.glitch.me/ArcaneAkshay/count.svg)
+![](https://komarev.com/ghpvc/?username=ArcaneAkshay&color=blue&&style=flat)
 - 🌱 I’m currently learning Javascript and Cloud Computing
